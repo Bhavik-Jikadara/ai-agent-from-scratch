@@ -37,6 +37,7 @@ The research output is also saved to a file named `research_output.txt`.
     ```bash
     ANTHROPIC_API_KEY="YOUR_ANTHROPIC_API_KEY"
     OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+    GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
     ```
 
 3. Run the Script:
